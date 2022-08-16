@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator Lite</string>
+    <string name="power">power</string>
+    <string name="exp">exp</string>
+    <string name="IntegerDivision">//</string>
+    <string name="multiplication">*</string>
+    <string name="button">Button</string>
+    <string name="subtraction">-</string>
+    <string name="division">/</string>
+    <string name="number_1">Number 1</string>
+    <string name="answar">Answer</string>
+    <string name="number_2">Number 2</string>
+    <string name="addition">+</string>
+    <string name="sqrt">sqrt</string>
+    <string name="logarithm">Log</string>
+    <string name="simple_claculator">simple calculator</string>
+</resources>
